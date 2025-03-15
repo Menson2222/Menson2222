@@ -30,6 +30,16 @@ I love working on open-source projects and sharing my knowledge. Check out my re
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Menson2222&theme=radical" alt="GitHub Streak Stats" />
 </p>
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Menson2222&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Menson2222&theme=radical" alt="GitHub Streak Stats" />
+  <br>
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menson2222&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
 
 ---
 
