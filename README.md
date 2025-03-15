@@ -20,7 +20,9 @@ I love working on open-source projects and sharing my knowledge. Check out my re
 ### 💡 Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,linux,vscode,git,github" />
-  <img width="48" height="48" src="https://img.icons8.com/color/48/solidworks.png" alt="solidworks"/>
+  <img src="https://img.icons8.com/color/96/solidworks.png" alt="SolidWorks Logo" width="48" height="48" style="border: 2px solid #000; border-radius: 5px; padding: 5px;"/>
+</p>
+
 </p>
 
 ---
