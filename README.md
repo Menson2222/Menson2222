@@ -1,11 +1,4 @@
 ## WELCOME TO MY PAGE 👋👋👋👋 I'm MENSON
-<h1 align="center">🚀 Passionate Developer | 🌏 Based in Vietnam</h1>
-
-<p align="center">
-  <img src="https://your-profile-image-url.com" width="150" alt="Profile Picture">
-</p>
-
-## 👋 Hi there! I'm [Your Name]
 I'm a student at **Ho Chi Minh City University of Technology and Education (HCMUTE)**, majoring in **Automation Engineering**.
 
 ### 🛠️ About Me
