@@ -29,7 +29,10 @@ I love working on open-source projects and sharing my knowledge. Check out my re
 
 ### 💡 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,linux,vscode,git,github," />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,linux,vscode,git,github" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/SolidWorks_Logo.png" alt="SolidWorks" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Altium_Designer_Logo.png" alt="Altium Designer" width="50">
+  <img src="https://www.itead.cc/media/catalog/product/cache/3/image/400x400/9df78eab33525d08d6e5fb8d27136e95/n/e/nextion_logo_1.png" alt="Nextion" width="50">
 </p>
 
 ---
