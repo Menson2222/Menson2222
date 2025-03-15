@@ -21,8 +21,7 @@ I love working on open-source projects and sharing my knowledge. Check out my re
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,linux,vscode,git,github" />
   <img src="https://img.icons8.com/color/96/solidworks.png" alt="SolidWorks Logo" width="48" height="48" style="border: 2px solid #000; border-radius: 5px; padding: 5px;"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Altium_Designer_Logo.svg/120px-Altium_Designer_Logo.svg.png" alt="Altium Logo" width="48" height="48" style="border: 2px solid #000; border-radius: 5px; padding: 5px;"/>
-</p>
+  <img src="https://i.imgur.com/uZ3hrR7.png" alt="Altium Logo" width="48" height="48" style="border: 2px solid #000; border-radius: 5px; padding: 5px;"/>
 </p>
 
 </p>
