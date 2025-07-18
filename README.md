@@ -1,5 +1,5 @@
 ## WELCOME TO MY PAGE 👋👋👋👋 I'm MENSON
-I'm a student at **Ho Chi Minh City University of Technology and Education (HCMUTE)**, majoring in **Robotics and Artificial Intelligence Engineer**.
+I'm a student at **Ho Chi Minh City University of Technology and Education (HCMUTE)**, majoring in **Mechatronics Engineer**.
 
 ### 🛠️ About Me
 With a deep passion for **embedded programming, circuit design, and mechanical engineering**, I continuously explore and develop innovative projects in these fields. My goal is to share **useful and impactful projects** with the community, hoping to inspire and collaborate with like-minded individuals.
