@@ -22,9 +22,9 @@ With a deep passion for **embedded programming, circuit design, and mechanical e
 - 🥉 **3rd Prize – Vietnam Science and Engineering Fair (VISEF) 2025** – Bộ Giáo dục & Đào tạo  
   *Awarded for an innovative IoT & Computer Vision project in shrimp farming environmental monitoring.*  
 
-  <p align="center">
-    <img src="LINK_ẢNH_CHỨNG_CHỈ_VISEF" alt="VISEF 2025 Certificate" width="600"/>
-  </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ace2ce61-97e4-457d-a1c9-728c497a7d70" alt="VISEF 2025 Certificate" width="600"/>
+</p>
 
   ![VISEF Badge](https://img.shields.io/badge/VISEF-3rd%20Prize%202025-bronze?style=for-the-badge&logo=medal&logoColor=white)
 
