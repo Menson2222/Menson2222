@@ -8,10 +8,9 @@ With a deep passion for **embedded programming, circuit design, and mechanical e
 
 ### 🏆 Achievements & Certifications
 - 🥇 **Certified SolidWorks Professional (CSWP)** – Dassault Systèmes  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/SolidWorks_logo.svg" alt="SolidWorks Logo" width="100"/>  
+<img width="1576" height="1112" alt="Screenshot 2025-08-14 111604" src="https://github.com/user-attachments/assets/fcbadea9-9b00-4a83-aa03-81ac33410956" />
   *Proficient in advanced part modeling, complex assemblies, and design validation.*  
-
-![CSWP Badge](<img width="1576" height="1112" alt="image" src="https://github.com/user-attachments/assets/385527a4-bf60-4592-a75c-ddd14ac0bf71" />)
+![CSWP Badge](https://img.shields.io/badge/CSWP-Certified%20SolidWorks%20Professional-orange?style=for-the-badge&logo=solidworks&logoColor=white)
 
 ---
 
