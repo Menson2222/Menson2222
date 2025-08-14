@@ -1,4 +1,4 @@
-## WELCOME TO MY PAGE 👋👋👋👋 I'm MENSON
+## WELCOME TO MY PAGE 👋👋👋👋 I'm Huynh Manh Sang (Nickname: MENSON)
 
 I'm a student at **Ho Chi Minh City University of Technology and Education (HCMUTE)**, majoring in **Mechatronics Engineering**.
 
@@ -12,8 +12,8 @@ With a deep passion for **embedded programming, circuit design, and mechanical e
 ---
 
 ### 🎓 Education
-- 🎓 **Ho Chi Minh City University of Technology and Education (HCMUTE)** – *B.Eng. in Mechatronics Engineering* (Expected 202X)  
-- 🏫 **Quang Trung High School for the Gifted, Binh Phuoc** – *Specialized in Mathematics* (2019–2022)  
+- 🎓 **Ho Chi Minh City University of Technology and Education (HCMUTE)** – *B.Eng. in Mechatronics Engineering* (2025-2029)  
+- 🏫 **Quang Trung High School for the Gifted, Binh Phuoc** – *Specialized in Mathematics* (2022–2025)  
 
 ---
 
