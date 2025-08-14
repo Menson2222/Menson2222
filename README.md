@@ -11,7 +11,7 @@ With a deep passion for **embedded programming, circuit design, and mechanical e
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/SolidWorks_logo.svg" alt="SolidWorks Logo" width="100"/>  
   *Proficient in advanced part modeling, complex assemblies, and design validation.*  
 
-![CSWP Badge](https://img.shields.io/badge/CSWP-Certified%20SolidWorks%20Professional-orange?style=for-the-badge&logo=solidworks&logoColor=white)
+![CSWP Badge](<img width="1576" height="1112" alt="image" src="https://github.com/user-attachments/assets/385527a4-bf60-4592-a75c-ddd14ac0bf71" />)
 
 ---
 
