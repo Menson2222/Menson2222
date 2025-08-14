@@ -4,6 +4,17 @@ I'm a student at **Ho Chi Minh City University of Technology and Education (HCMU
 ### 🛠️ About Me
 With a deep passion for **embedded programming, circuit design, and mechanical engineering**, I continuously explore and develop innovative projects in these fields. My goal is to share **useful and impactful projects** with the community, hoping to inspire and collaborate with like-minded individuals.
 
+---
+
+### 🏆 Achievements & Certifications
+- 🥇 **Certified SolidWorks Professional (CSWP)** – Dassault Systèmes  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/SolidWorks_logo.svg" alt="SolidWorks Logo" width="100"/>  
+  *Proficient in advanced part modeling, complex assemblies, and design validation.*  
+
+![CSWP Badge](https://img.shields.io/badge/CSWP-Certified%20SolidWorks%20Professional-orange?style=for-the-badge&logo=solidworks&logoColor=white)
+
+---
+
 ### 🔥 My Interests
 - 🚀 Embedded Systems & IoT Development  
 - 🔧 PCB & Circuit Design  
