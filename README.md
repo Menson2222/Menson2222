@@ -7,10 +7,26 @@ With a deep passion for **embedded programming, circuit design, and mechanical e
 ---
 
 ### 🏆 Achievements & Certifications
+
 - 🥇 **Certified SolidWorks Professional (CSWP)** – Dassault Systèmes  
-<img width="1576" height="1112" alt="Screenshot 2025-08-14 111604" src="https://github.com/user-attachments/assets/fcbadea9-9b00-4a83-aa03-81ac33410956" />
   *Proficient in advanced part modeling, complex assemblies, and design validation.*  
-![CSWP Badge](https://img.shields.io/badge/CSWP-Certified%20SolidWorks%20Professional-orange?style=for-the-badge&logo=solidworks&logoColor=white)
+
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/fcbadea9-9b00-4a83-aa03-81ac33410956" alt="CSWP Certificate" width="600"/>
+  </p>
+
+  ![CSWP Badge](https://img.shields.io/badge/CSWP-Certified%20SolidWorks%20Professional-orange?style=for-the-badge&logo=solidworks&logoColor=white)
+
+---
+
+- 🥉 **3rd Prize – Vietnam Science and Engineering Fair (VISEF) 2025** – Bộ Giáo dục & Đào tạo  
+  *Awarded for an innovative IoT & Computer Vision project in shrimp farming environmental monitoring.*  
+
+  <p align="center">
+    <img src="LINK_ẢNH_CHỨNG_CHỈ_VISEF" alt="VISEF 2025 Certificate" width="600"/>
+  </p>
+
+  ![VISEF Badge](https://img.shields.io/badge/VISEF-3rd%20Prize%202025-bronze?style=for-the-badge&logo=medal&logoColor=white)
 
 ---
 
