@@ -23,7 +23,7 @@ With a deep passion for **embedded programming, circuit design, and mechanical e
   *Awarded for an innovative IoT & Computer Vision project in shrimp farming environmental monitoring.*  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ace2ce61-97e4-457d-a1c9-728c497a7d70" alt="VISEF 2025 Certificate" width="600"/>
+  <img src="https://github.com/user-attachments/assets/b3414b70-422c-4dcd-a971-356fd4b29ac8" alt="VISEF 2025 Certificate" width="600"/>
 </p>
 
   ![VISEF Badge](https://img.shields.io/badge/VISEF-3rd%20Prize%202025-bronze?style=for-the-badge&logo=medal&logoColor=white)
