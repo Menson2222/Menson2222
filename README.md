@@ -1,8 +1,19 @@
 ## WELCOME TO MY PAGE 👋👋👋👋 I'm MENSON
-I'm a student at **Ho Chi Minh City University of Technology and Education (HCMUTE)**, majoring in **Mechatronics Engineer**.
+
+I'm a student at **Ho Chi Minh City University of Technology and Education (HCMUTE)**, majoring in **Mechatronics Engineering**.
+
+---
 
 ### 🛠️ About Me
+I graduated from **Quang Trung High School for the Gifted (Binh Phuoc)**, specializing in **Mathematics**, which built a strong analytical and problem-solving foundation.  
+
 With a deep passion for **embedded programming, circuit design, and mechanical engineering**, I continuously explore and develop innovative projects in these fields. My goal is to share **useful and impactful projects** with the community, hoping to inspire and collaborate with like-minded individuals.
+
+---
+
+### 🎓 Education
+- 🎓 **Ho Chi Minh City University of Technology and Education (HCMUTE)** – *B.Eng. in Mechatronics Engineering* (Expected 202X)  
+- 🏫 **Quang Trung High School for the Gifted, Binh Phuoc** – *Specialized in Mathematics* (2019–2022)  
 
 ---
 
@@ -22,19 +33,11 @@ With a deep passion for **embedded programming, circuit design, and mechanical e
 - 🥉 **3rd Prize – Vietnam Science and Engineering Fair (VISEF) 2025** – Bộ Giáo dục & Đào tạo  
   *Awarded for an innovative IoT & Computer Vision project in shrimp farming environmental monitoring.*  
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b3414b70-422c-4dcd-a971-356fd4b29ac8" alt="VISEF 2025 Certificate" width="600"/>
-</p>
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/ace2ce61-97e4-457d-a1c9-728c497a7d70" alt="VISEF 2025 Certificate" width="600"/>
+  </p>
 
   ![VISEF Badge](https://img.shields.io/badge/VISEF-3rd%20Prize%202025-bronze?style=for-the-badge&logo=medal&logoColor=white)
-
----
-
-### 🔥 My Interests
-- 🚀 Embedded Systems & IoT Development  
-- 🔧 PCB & Circuit Design  
-- 🤖 Robotics & Automation  
-- 💻 Firmware & Software Development  
 
 ---
 
@@ -56,10 +59,8 @@ I love working on open-source projects and sharing my knowledge. Check out my re
 ### 💡 Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,linux,vscode,git,github" />
-  <img src="https://img.icons8.com/color/96/solidworks.png" alt="SolidWorks Logo" width="48" height="48" style="border: 2px solid #000; border-radius: 5px; padding: 5px;"/>
-  <img src="https://i.imgur.com/uZ3hrR7.png" alt="Altium Logo" width="48" height="48" style="border: 2px solid #000; border-radius: 5px; padding: 5px;"/>
-</p>
-
+  <img src="https://img.icons8.com/color/96/solidworks.png" alt="SolidWorks Logo" width="48" height="48"/>
+  <img src="https://i.imgur.com/uZ3hrR7.png" alt="Altium Logo" width="48" height="48"/>
 </p>
 
 ---
@@ -78,8 +79,6 @@ I love working on open-source projects and sharing my knowledge. Check out my re
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menson2222&layout=compact&theme=radical" />
 </p>
 
-
 ---
 
 💡 *Let's connect and build something amazing together!* 🚀
-
