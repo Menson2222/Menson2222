@@ -4,6 +4,17 @@ I'm a student at **Ho Chi Minh City University of Technology and Education (HCMU
 
 ---
 
+### 📫 How to Reach Me
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hmsang.nk.cqt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.tiktok.com/@menson2222"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+  <a href="https://www.youtube.com/@Menson2222"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.facebook.com/profile.php?id=100076267646838"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/hu%E1%BB%B3nh-m%E1%BA%A1nh-sang-1a748a381" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
 ### 🛠️ About Me
 I graduated from **Quang Trung High School for the Gifted (Binh Phuoc)**, specializing in **Mathematics**, which built a strong analytical and problem-solving foundation.  
 
@@ -43,16 +54,6 @@ With a deep passion for **embedded programming, circuit design, and mechanical e
 
 ### 📌 Projects & Contributions
 I love working on open-source projects and sharing my knowledge. Check out my repositories for exciting projects related to **embedded systems, PCB design, and automation**.
-
----
-
-### 📫 How to Reach Me
-<p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hmsang.nk.cqt@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.tiktok.com/@menson2222"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
-  <a href="https://www.youtube.com/@Menson2222"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.facebook.com/profile.php?id=100076267646838"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-</p>
 
 ---
 
